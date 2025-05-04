@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\adsCompany",
+    "\\adsCompany\\Controllers",
+    "\\adsCompany\\Entities",
+    "\\adsCompany\\GraphQL",
+    "\\adsCompany\\GraphQL\\Inputs",
+    "\\adsCompany\\GraphQL\\Queries"
+  ],
+  "SelectedNode": "\\adsCompany\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
